@@ -1,0 +1,4 @@
+Usage : ./server <localhost> <port> <clients>
+
+usage: ./client <server> <port> <file> <host>
+
